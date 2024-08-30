@@ -13,3 +13,4 @@ Week 2: Create a prototype
   1. First, I created the slides for the Girls Who Code meeting on Thursday. They are linked here: https://docs.google.com/presentation/d/1dXHtq-W7reZOr6pp7jhrIKsbzVwXqElpZTTVLRfFokY/edit?usp=sharing
   2. I started contacting other nonprofit companies to see if they have any coding projects for XPerience interns to work on. You can see my progress here: 
      https://docs.google.com/document/d/1wX3Pf4Jte9qmR5zTVuVBGEpJFFDAgHr_3TfVBUuv4js/edit?usp=sharing
+  3. I posted on the Xperience LinkedIn about the XPerience Fundraiser. 

@@ -37,3 +37,5 @@
   Thursday: Try out the [Freewebstore](https://admin.freewebstore.com/design_overview.aspx) website that Shayna recommended. It didn't work too well for what I'm looking for. 
   
   Friday: Keep working on the Libertyville honors society app. I researched a new approach to making it and I'm trying it. 
+
+  [Google Document Link](https://docs.google.com/document/d/1NCFVMKEsNAWVsGWJSVgekgviC8O0OniwTO3k7MoqfKY/edit?usp=sharing)

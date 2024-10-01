@@ -28,7 +28,7 @@
 
 **Week 6: Daily Log of Activites**
 
-  Monday: Fill out Lake County STEM for Girls google forms
+  Monday: Fill out Lake County STEM for Girls google forms for my and Pritika's sessions.
   
   Tuesday: Edit Lake County STEM for Girls slideshow to get it ready for the event. 
   

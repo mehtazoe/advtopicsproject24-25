@@ -29,7 +29,11 @@
 **Week 6: Daily Log of Activites**
 
   Monday: Fill out Lake County STEM for Girls google forms
+  
   Tuesday: Edit Lake County STEM for Girls slideshow to get it ready for the event. 
+  
   Wednesday: Worked on app for Libertyville honors society, but it wasn't working. So I asked Shayna for some help.
+  
   Thursday: Try out the [Freewebstore](https://admin.freewebstore.com/design_overview.aspx) website that Shayna recommended. It didn't work too well for what I'm looking for. 
+  
   Friday: Keep working on the Libertyville honors society app. I researched a new approach to making it and I'm trying it. 

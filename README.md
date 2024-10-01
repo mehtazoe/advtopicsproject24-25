@@ -21,3 +21,15 @@
   This week, I worked on building the [Sales Tracking App](https://marketmoney-pugh.glide.page). See my progress and mentor question answers here: [Project Development Focus Path](https://docs.google.com/document/d/1-RIdaJHTunxRj5dhKSKQnKovOExqJDPEBoJC9b4MI-8/edit?usp=sharing)
 
   Additionally, I have been working on finishing up the Girls Who Code camp slides and flyer. 
+
+**Week 5: Mentorship**
+
+  I contacted my mentor by email.
+
+**Week 6: Daily Log of Activites**
+
+  Monday: Fill out Lake County STEM for Girls google forms
+  Tuesday: Edit Lake County STEM for Girls slideshow to get it ready for the event. 
+  Wednesday: Worked on app for Libertyville honors society, but it wasn't working. So I asked Shayna for some help.
+  Thursday: Try out the [Freewebstore](https://admin.freewebstore.com/design_overview.aspx) website that Shayna recommended. It didn't work too well for what I'm looking for. 
+  Friday: Keep working on the Libertyville honors society app. I researched a new approach to making it and I'm trying it. 

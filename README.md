@@ -39,3 +39,7 @@
   Friday: Keep working on the Libertyville honors society app. I researched a new approach to making it and I'm trying it. Unfortunately, I can't add a link to it because I made it a copy of the original one, just in case it doesn't work out and I have to return to the old one. But, essentially, instead of changing the quantity of items in my "cart," I am adding rows to an empty cart. That way, it is easier to just empty the "cart" data table.  
 
   [Google Document Link](https://docs.google.com/document/d/1NCFVMKEsNAWVsGWJSVgekgviC8O0OniwTO3k7MoqfKY/edit?usp=sharing)
+
+  **Unit 7: Project Timeline Refinement**
+
+  [Completed Document](https://docs.google.com/document/d/1ItRi6i-fPx-rBEYLPnbCqxj69V7uN58pmjPrnjFaalM/edit)

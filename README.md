@@ -43,3 +43,7 @@
   **Unit 7: Project Timeline Refinement**
 
   [Completed Document](https://docs.google.com/document/d/1ItRi6i-fPx-rBEYLPnbCqxj69V7uN58pmjPrnjFaalM/edit)
+
+  **Week 8: MVP Prep**
+
+  [Completed Document](https://docs.google.com/document/d/10E4Z87Hutg-2_L2JW9TAQ3Dg-t5NscFK8BJHRYoDS4k/edit?tab=t.0)

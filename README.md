@@ -47,3 +47,11 @@
   **Week 8: MVP Prep**
 
   [Completed Document](https://docs.google.com/document/d/10E4Z87Hutg-2_L2JW9TAQ3Dg-t5NscFK8BJHRYoDS4k/edit?tab=t.0)
+
+  **Unit 11**
+
+  [Unit 11 Document Link](https://docs.google.com/document/d/1B1p3JZ91bSU1dS_mtiIcP9K2VhM0ZOXwk5xQdQa-NhU/edit?usp=sharing)
+
+  **Unit 12**
+
+  [Unit 12 Document Link](https://docs.google.com/document/d/1cBJWgPQAVawaJ_RV3-5bP6Rq5VLaFJj6hfRGciRYHJ4/edit?usp=sharing)
